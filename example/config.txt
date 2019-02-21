@@ -1,0 +1,2 @@
+Prefix plugins/CSV2Tab/example
+Plugin CSV2Tab inputfile csv_data.csv outputfile tsv_data.csv
