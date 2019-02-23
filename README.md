@@ -5,4 +5,4 @@
 # Tested with: PluMA 1.0, Python 2.7
 PluMA plugin that converts a CSV file into a tab-delimited CSV file.
 
-Plugin takes into input a CSV file and outputs a tab-delimited CSV file.
+The plugin takes into input in CSV file format and outputs in tab-delimited CSV file format.
