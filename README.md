@@ -1,8 +1,10 @@
 # CSV2Tab
 # Language: Python
-# Input: CSV file
-# Output: CSV tab-delimited file
-# Tested with: PluMA 1.0, Python 2.7
-PluMA plugin that converts a CSV file into a tab-delimited CSV file.
+# Input: CSV
+# Output: TSV
+# Tested with: PluMA 1.1, Python 3.6
+# Dependency: csv==1.0
 
-The plugin takes into input in CSV file format and outputs in tab-delimited CSV file format.
+PluMA plugin to take a comma-separated value (CSV) file and converted it to be tab-separated (TSV).
+
+Input is the CSV, output is the TSV.
